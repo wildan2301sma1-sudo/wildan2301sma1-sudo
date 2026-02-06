@@ -1,16 +1,49 @@
-## Hi there 👋
 
-<!--
-**wildan2301sma1-sudo/wildan2301sma1-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:f09819&height=250&section=header&text=Wildan%20Bm&desc=Basketball%20Media%20Creator&fontSize=48&fontColor=ffffff&descAlignY=65" />
 
-- 🔭 I’m currently studying Sma Prestasi Prima Jakarta
-- 🌱 I’m currently learning About Sociology 
-- 👯 I’m looking to collaborate on Sport Media 
-- 🤔 I’m looking for help with Math 
-- 💬 Ask me about BasketBall
-- 📫 How to reach me: call me (087845129342)/wildanbrilyawan@gmail.com
-- 😄 Pronouns: him
-- ⚡ Fun fact: Ga suka Seblak 
---> 
+## Portofolio Wildan Bm
+
+🎓 Student at SMA Prestasi Prima Jakarta  
+🌱 Favorite subject: Sociology  
+📷🏀 Interested in Basketball Media & Sports Content  
+🎥🏆 Hobby: Filming sports matches  
+
+---
+
+### 📖 About Me
+I’m a high school student who loves sports, especially basketball, and creative media.  
+I enjoy recording sports events and learning new skills related to content creation and technology.
+
+---
+
+### 🛠 Skills (Growing)
+- 🥘 Cooking 
+- 🎥 Content creation (sports filming)  
+- Team collaboration  
+
+---
+
+### 🚀 Interests & Collaboration
+- 🏀 Basketball media projects  
+- 📷 Sports photography & videography  
+- 🎬 Event documentation  
+
+---
+
+### 📬 Contact Me
+- 📱 Phone: 087845129342  
+- 📧 Email: wildanbrilyawan@gmail.com  
+
+---
+
+### ⚡ Fun Fact
+I don’t like seblak 😄  
+
+---
+
+### 🎯 Goals
+- Improve Sports Media Skills  
+- Learn basic web development  
+- Make Everyone Loves Sport
+
