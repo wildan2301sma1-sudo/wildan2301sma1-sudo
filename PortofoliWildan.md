@@ -1,4 +1,5 @@
 
+<body style="background:#141e30; color:black;">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:f09819&height=250&section=header&text=Wildan%20Bm&desc=Basketball%20Media%20Creator&fontSize=48&fontColor=ffffff&descAlignY=65" />
 
