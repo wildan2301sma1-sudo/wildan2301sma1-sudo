@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #141e30;
+  color: white;
+}
+
+header {
+  background: linear-gradient(to right, #000428, #f09819);
+  padding: 80px 20px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 48px;
+  margin: 0;
+}
+
+section {
+  max-width: 800px;
+  margin: auto;
+  padding: 40px 20px;
+}
+
+h2 {
+  color: #f09819;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  background: #1f2a44;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.contact p {
+  background: #1f2a44;
+  padding: 10px;
+  border-radius: 8px;
+  margin: 10px 0;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #000428;
+}
